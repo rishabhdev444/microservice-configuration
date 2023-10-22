@@ -1,6 +1,7 @@
 spring:
   application:
-    name:User-Config-Service
+    name: User-Config-Service
+
 eureka:
   client:
     fetch-registry: true
